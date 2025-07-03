@@ -1,0 +1,28 @@
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.exe
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.deps.json
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.runtimeconfig.json
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.dll
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.pdb
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.AssemblyInfoInputs.cache
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.AssemblyInfo.cs
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.csproj.CoreCompileInputs.cache
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.dll
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\refint\MovieStoreapp.dll
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.pdb
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.genruntimeconfig.cache
+C:\Users\rushabh.gunjal\OneDrive - Aurionpro Solutions Limited\Documents\.net assignments mithril\MovieStoreapp\obj\Debug\net8.0\ref\MovieStoreapp.dll
+D:\Swabhav\Day-14\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.exe
+D:\Swabhav\Day-14\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.deps.json
+D:\Swabhav\Day-14\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.runtimeconfig.json
+D:\Swabhav\Day-14\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.dll
+D:\Swabhav\Day-14\MovieStoreapp\bin\Debug\net8.0\MovieStoreapp.pdb
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.AssemblyInfoInputs.cache
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.AssemblyInfo.cs
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.csproj.CoreCompileInputs.cache
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.dll
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\refint\MovieStoreapp.dll
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.pdb
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\MovieStoreapp.genruntimeconfig.cache
+D:\Swabhav\Day-14\MovieStoreapp\obj\Debug\net8.0\ref\MovieStoreapp.dll
